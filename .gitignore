@@ -24,6 +24,9 @@ dist-ssr
 *.sln
 *.sw?
 
+# Vite cache
+.vite/
+
 # Freebuff helper tooling + temp artifacts (not part of the project)
 .freebuff/*
 !.freebuff/run.md
